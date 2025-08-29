@@ -5,7 +5,7 @@ Game **PUBG** mendapatkan beragam ulasan dari pemain di platform Playstore. Mema
 
 ### 🎯 Tujuan  
 Tujuan utama dari proyek ini adalah:
-- Mengumpulkan data ulasan PUBG dari web (scraping).
+- Mengumpulkan data ulasan PUBG dari Playstore (scraping).
 - Membersihkan dan memproses data teks (preprocessing).
 - Membangun dan melatih model machine learning untuk klasifikasi sentimen.
 - Mengevaluasi performa model menggunakan metrik evaluasi standar (accuracy, precision, recall, F1-score).
